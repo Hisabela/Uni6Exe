@@ -1,0 +1,58 @@
+public class escrito{
+/* 
+
+UNIDADE 6
+Escopo dos métodos: escopo
+
+explicar um "pouco" -> mais explicação na disciplina de Orientação à Objetos (próximo semestre)
+
+Nome do arquivo Java define o nome Class
+
+todo arquivo java só tem uma classe
+Métodos Main -> public static void main(String[] args)
+
+porta entrada para executar o código
+
+só pode ter um método main no nosso código a ser executado
+
+Método Construtor _ método "especial"
+
+se usa muito construtores em OO
+usaremos também para evitar o uso do static
+static: tenta não usar -> fugir :-(
+não tem "void"
+Métodos _ os meus métodos
+
+  private void testeAula(int a, double b) { /* ... */ }
+assinatura
+
+ private: visibilidade -> private (sem usar private por enquanto)
+ void: retorno void ou tipo -> saída (opcional)
+ testeAula: nome (mesma ideia ao dar nomes das variáveis)
+ (int a, double b): parâmetros
+Entrada do método (opcional)
+passagem por valor: conteúdo da variável
+passagem por referência: ponteiro (endereço)
+ { / ... */ }*: bloco/escopo
+{ todo o meu código} -> processo (opcional)
+visibilidade da Classe ou Método: public, protected, private
+
+public é o valor default
+.. recomendação usar nesta ordem: private, protected, public
+
+
+UNIDADE 5
+
+riar um novo projeto no VSCode para representar a Unidade 5 com o nome "Unidade5";
+ Loop infinito - uso do CTRL+C;
+ Resgatar conteúdo da Unidade 5 e mostrar o que é o Estruturas de Seleção: comando repetição;
+Grupo PARA (for);
+Grupo ENQUANTO (while);
+Grupo FAÇA ENQUANTO (do while);
+ Resolver os primeiros exercícios (exemplos) Atividades - Aula.
+Observem que uso de Comandos de Controle de Fluxo: Repetição geram um padrão de comportamento a cada iteração. E, ao se analisar o enunciado do problema e se conseguindo identificar este padrão pode ajudar a resolver o problema inicial.
+
+Como exemplo tomamos o problema apresentado na unidade 2, o problema Uni2Exe20 da "dobra do papel". Qual seria o padrão identificado ao se executar o que este enunciado pede? Como posso tendo os valores de Entrada saber quais valores de saída irão gerar?
+*/
+
+}
